@@ -1,0 +1,46 @@
+.Header {
+  background-color: whitesmoke;
+  text-align: center;
+  padding: 5px;
+  border-radius: 0.5%;
+}
+
+.Main-pic {
+  text-align: center;
+}
+
+.figcap {
+  font-size: 15px;
+  padding: 15px;
+  background-color: white;
+  margin-right: 10px;
+  margin-left: 10px;
+  border-radius: 0.5%;
+}
+
+.time-line {
+  background-color: whitesmoke;
+  padding-top: 1px;
+  padding-left: 30%;
+  padding-right: 30%;
+}
+
+.life {
+  text-align: center;
+  background-color: whitesmoke;
+  padding-top: 100px;
+  padding-bottom: 1px;
+}
+
+.cite {
+  padding-left: 15%;
+  padding-right: 15%;
+}
+
+.footer {
+  font-size: 100%;
+}
+
+html {
+  font-family: sans-serif;
+}
